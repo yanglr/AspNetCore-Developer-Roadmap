@@ -204,5 +204,15 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# 更多技术干货请微信关注公号「dotNET匠人」，持续输出优质的技术文章~
+<br>
 
+![dotNET匠人 公众号名片](https://raw.githubusercontent.com/yanglr/WindowsDevTools/master/images/gzhCard.png)
+
+
+### 文末彩蛋
+
+> 微信后台回复“**asp**”，给你：一份全网最强的ASP.NET学习路线图。
+> <br>
+> 回复“**cs**”，给你：一整套 C# 和 WPF 学习资源！
+><br>
+> 回复“**core**”，给你：2019年dotConf大会上发布的.NET core 3.0学习视频！
