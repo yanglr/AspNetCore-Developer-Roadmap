@@ -206,7 +206,7 @@
 
 <br>
 
-![dotNET匠人 公众号名片](https://raw.githubusercontent.com/yanglr/WindowsDevTools/master/images/gzhCard.png)
+![大白技术控](https://cdn.jsdelivr.net/gh/by8/by8.github.io@master/assets/images/gzh_qrcode.jpg)
 
 
 ### 文末彩蛋
