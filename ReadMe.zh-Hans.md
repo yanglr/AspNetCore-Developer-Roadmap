@@ -1,6 +1,6 @@
 # ASP.NET Core开发者指南
 
-> 2019年[ASP.NET Core](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.2)开发者指南:
+> 2020年[ASP.NET Core](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.2)开发者指南:
 
 你可以在下面找到一张图，该图展示了你可以选取的路径及你想学习的库，从而成为一名 ASP.NET Core 开发者。“作为 ASP.NET Core 开发者，我接下来应该学习什么？”，我把这张图作为建议给每个问过我这一问题的人。
 
